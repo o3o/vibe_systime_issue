@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vibe_time_issue
+vibe_time_issue.so
+vibe_time_issue.dylib
+vibe_time_issue.dll
+vibe_time_issue.a
+vibe_time_issue.lib
+vibe_time_issue-test-*
+*.exe
+*.o
+*.obj
+*.lst

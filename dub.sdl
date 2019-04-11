@@ -1,0 +1,7 @@
+name "vibe_time_issue"
+description "A simple vibe.d server application."
+authors "dao"
+copyright "Copyright © 2019, dao"
+
+dependency "vibe-d" version="~>0.8.2"
+versions "VibeDefaultMain"
